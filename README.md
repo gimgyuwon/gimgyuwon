@@ -1,6 +1,16 @@
-### Hi there 👋 </br>I'm Gyuwon Kim, I hope to ???
+<div align=center>
 
-## 💻 My Stack
-<img src="https://img.shields.io/badge/JAVA-404040?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-404040?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="Python" src ="https://img.shields.io/badge/Python-404040.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
+
+## :bug: Stack
+ <img src="https://img.shields.io/badge/java-00CCBC?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-54BCAB?style=for-the-badge&logo=python&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/mysql-00CCBC?style=for-the-badge&logo=mysql&logoColor=white">
+
+## :bug:About me
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gimgyuwon)](https://velog.io/@gimgyuwon) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimgyuwon&show_icons=true&theme=graywhite)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimgyuwon&show_icons=true&theme=Card&title_color=ffffff&text_color=ffffff&icon_color=ffffff&&bg_color=20C997&border_color=20C997)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gimgyuwon2)](https://solved.ac/gimgyuwon2)
+
+</div>
