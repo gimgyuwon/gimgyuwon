@@ -4,7 +4,7 @@
 ## :bug: Stack
  <img src="https://img.shields.io/badge/java-00CCBC?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-54BCAB?style=for-the-badge&logo=python&logoColor=white">
  
- <img src="https://img.shields.io/badge/mysql-00CCBC?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/mysql-54BCAB?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/spring-00CCBC?style=for-the-badge&logo=spring&logoColor=white"> 
 
 ## :bug:About me
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gimgyuwon)](https://velog.io/@gimgyuwon) 
