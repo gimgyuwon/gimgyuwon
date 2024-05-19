@@ -1,3 +1,7 @@
+<div align=center><h2>Hi, I'm Gyuwon Kim,
+  
+a developer who adapts well to change through consistent documentation!✍️</h2>
+
 <div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
