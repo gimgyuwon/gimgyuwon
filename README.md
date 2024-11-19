@@ -12,3 +12,12 @@
 <a href="https://velog.io/@gimgyuwon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gimgyuwon"/></a>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gimgyuwon"
+  width="600"
+  height="300"
+/>
+</a>
